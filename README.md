@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">Norwegian Centre for Research-based Innovation (SFI)</h2>
-<p align="center">Funded by the Research Council of Norway &nbsp;</p>
+<p align="center">Funded by the Research Council of Norway</p>
 
 <p align="center">
   <a href="https://www.visual-intelligence.no"><img src="https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
@@ -31,8 +31,6 @@ Our goal: make visual AI more capable, trustworthy, and explainable.
 ---
 
 ## 🌈 Core Innovation Areas
-
-
 
 - 🏥 **Medicine & Health** — AI-assisted diagnostics, medical imaging, cancer detection
 - 🌊 **Marine Science** — Underwater vision, species recognition, ocean monitoring
@@ -76,7 +74,7 @@ Our goal: make visual AI more capable, trustworthy, and explainable.
 <p align="center">
   <a href="https://www.kreftregisteret.no/en/"><img src="assets/logos/cancer_registry.png" height="50" alt="Cancer Registry of Norway"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://unn.no/om-oss/university-hospital-of-north-norway"><img src="assets/logos/unn.png" height="50" alt="UNN"/></a>
+  <a href="https://unn.no/om-oss/university-hospital-of-north-norway"><img src="assets/logos/unn.png" height="30" alt="UNN"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://helsenordikt.no"><img src="assets/logos/helse_nord_ikt.png" height="50" alt="Helse Nord IKT"/></a>
   &nbsp;&nbsp;&nbsp;
@@ -85,12 +83,10 @@ Our goal: make visual AI more capable, trustworthy, and explainable.
 
 ---
 
-
 ## 📅 Community & Events
 
 - **VI Days 2026** — annual gathering for partners and researchers
-- **Northern Lights Deep Learning Conference** 
-    — flagship regional DL conference, every January in Tromsø, Norway
+- [**Northern Lights Deep Learning Conference**](https://www.nldl.org/home) — flagship regional DL conference held in Tromsø, Norway
 - Seminars and workshops throughout the year
 
 Subscribe to the [newsletter](https://www.visual-intelligence.no) to stay updated.
