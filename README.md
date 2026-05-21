@@ -80,9 +80,23 @@ We develop novel **deep learning-based solutions** for complex image analysis ‚Ä
 
 ## ü§ù Partners
 
+**Private Sector**
+
+| Partner | Domain |
+|---------|--------|
+| [**Equinor**](https://www.equinor.com) | Energy & oil |
+| [**Aker BP**](https://akerbp.com) | Energy & oil |
+| [**GE Healthcare**](https://www.gehealthcare.com/products/ultrasound) | Medical ultrasound |
+| [**Kongsberg Satellite Services (KSAT)**](https://www.ksat.no) | Satellite services |
 
 **Public Sector**
 
+| Partner | Domain |
+|---------|--------|
+| [**Cancer Registry of Norway**](https://www.kreftregisteret.no/en/) | Health & oncology |
+| [**University Hospital of North Norway (UNN)**](https://unn.no/om-oss/university-hospital-of-north-norway) | Clinical research |
+| [**Helse Nord IKT**](https://helsenordikt.no) | Healthcare IT |
+| [**Institute of Marine Research**](https://www.hi.no/en) | Ocean & marine science |
 
 ---
 
