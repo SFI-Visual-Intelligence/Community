@@ -1,6 +1,6 @@
 <h1 align="center">Visual Intelligence</h1>
 <p align="center"><b>Deep Learning for Complex Image Analysis</b></p>
-<p align="center"><i>Centre for Research-based Innovation (SFI) · Norway · 2020–2026</i></p>
+<p align="center"><i>Centre for Research-based Innovation (SFI) · Norway</i></p>
 
 <br/>
 
