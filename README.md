@@ -62,28 +62,37 @@ We develop novel **deep learning-based solutions** for complex image analysis �
 
 ---
 
-## 🏛️ Research partners
+## 🏛️ Research Partners
 
-
-- 🟦 [UiT – The Arctic University of Norway](https://uit.no)
-- 🟥 [Norsk Regnesentral (Norwegian Computing Center)](https://www.nr.no)
-- 🟪 [University of Oslo (UiO)](https://www.uio.no)
+<p align="center">
+  <a href="https://uit.no"><img src="assets/logos/uit.png" height="50" alt="UiT – The Arctic University of Norway"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.nr.no"><img src="assets/logos/nr.gif" height="50" alt="Norsk Regnesentral"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.uio.no"><img src="assets/logos/uio.png" height="50" alt="University of Oslo"/></a>
+</p>
 
 ---
 
 ## 🤝 Consortium Partners
 
 <p align="center">
-  <a href="https://www.equinor.com"><img src="https://img.shields.io/badge/Equinor-EE4B2B?style=for-the-badge&logo=equinor&logoColor=white"/></a>
-  <a href="https://akerbp.com"><img src="https://img.shields.io/badge/Aker%20BP-003087?style=for-the-badge&logoColor=white"/></a>
-  <a href="https://www.gehealthcare.com/products/ultrasound"><img src="https://img.shields.io/badge/GE%20Healthcare-1D6FA4?style=for-the-badge&logo=ge&logoColor=white"/></a>
-  <a href="https://www.ksat.no"><img src="https://img.shields.io/badge/KSAT-6A0DAD?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://www.equinor.com"><img src="assets/logos/equinor.png" height="50" alt="Equinor"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://akerbp.com"><img src="assets/logos/akerbp.png" height="50" alt="Aker BP"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.gehealthcare.com/products/ultrasound"><img src="assets/logos/ge_healthcare.png" height="50" alt="GE Healthcare"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.ksat.no"><img src="assets/logos/ksat.png" height="50" alt="KSAT"/></a>
 </p>
 <p align="center">
-  <a href="https://www.kreftregisteret.no/en/"><img src="https://img.shields.io/badge/Cancer%20Registry%20of%20Norway-C0392B?style=for-the-badge&logoColor=white"/></a>
-  <a href="https://unn.no/om-oss/university-hospital-of-north-norway"><img src="https://img.shields.io/badge/UNN-0077B6?style=for-the-badge&logoColor=white"/></a>
-  <a href="https://helsenordikt.no"><img src="https://img.shields.io/badge/Helse%20Nord%20IKT-2A9D8F?style=for-the-badge&logoColor=white"/></a>
-  <a href="https://www.hi.no/en"><img src="https://img.shields.io/badge/Institute%20of%20Marine%20Research-F4A261?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://www.kreftregisteret.no/en/"><img src="assets/logos/cancer_registry.png" height="50" alt="Cancer Registry of Norway"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://unn.no/om-oss/university-hospital-of-north-norway"><img src="assets/logos/unn.png" height="50" alt="UNN"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://helsenordikt.no"><img src="assets/logos/helse_nord_ikt.png" height="50" alt="Helse Nord IKT"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hi.no/en"><img src="assets/logos/imr.png" height="50" alt="Institute of Marine Research"/></a>
 </p>
 
 ---
