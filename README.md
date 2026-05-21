@@ -85,9 +85,9 @@ Our goal: make visual AI more capable, trustworthy, and explainable.
 
 ## 📅 Community & Events
 
-- **VI Days 2026** — annual gathering for partners and researchers
-- [**Northern Lights Deep Learning Conference**](https://www.nldl.org/home) — flagship regional DL conference held in Tromsø, Norway
-- Seminars and workshops throughout the year
+- [**VI Days 2026**](https://www.visual-intelligence.no/event/visual-intelligence-days-2026) — annual gathering for partners and researchers
+- [**Northern Lights Deep Learning Conference**](https://www.nldl.org/home) — flagship regional DL conference held every January in Tromsø, Norway
+- [**Seminars**](https://www.visual-intelligence.no/events/seminars) — workshops and talks throughout the year
 
 Subscribe to the [newsletter](https://www.visual-intelligence.no) to stay updated.
 
