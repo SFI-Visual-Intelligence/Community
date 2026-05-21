@@ -49,23 +49,19 @@ We develop novel **deep learning-based solutions** for complex image analysis �
 
 
 
-| | Area | Focus |
-|---|------|-------|
-| 🏥 | **Medicine & Health** | AI-assisted diagnostics, medical imaging, cancer detection |
-| 🌊 | **Marine Science** | Underwater vision, species recognition, ocean monitoring |
-| ⚡ | **Energy & Industry** | Remote inspection, infrastructure monitoring, industrial vision |
-| 🛰️ | **Earth Observation** | Satellite imagery analysis, environmental monitoring |
+- 🏥 **Medicine & Health** — AI-assisted diagnostics, medical imaging, cancer detection
+- 🌊 **Marine Science** — Underwater vision, species recognition, ocean monitoring
+- ⚡ **Energy & Industry** — Remote inspection, infrastructure monitoring, industrial vision
+- 🛰️ **Earth Observation** — Satellite imagery analysis, environmental monitoring
 
 ---
 
 ## 🧠 Key Research Challenges
 
-| Challenge | Description |
-|-----------|-------------|
-| 📉 **Limited Training Data** | Building robust models when labelled examples are scarce |
-| 🔗 **Context & Dependencies** | Exploiting spatial, temporal, and semantic structure |
-| 📊 **Uncertainty Quantification** | Knowing when — and how much — a model doesn't know |
-| 💡 **Explainability & Reliability** | Interpretable and trustworthy deep learning in practice |
+- 📉 **Limited Training Data** — Building robust models when labelled examples are scarce
+- 🔗 **Context & Dependencies** — Exploiting spatial, temporal, and semantic structure
+- 📊 **Uncertainty Quantification** — Knowing when — and how much — a model doesn't know
+- 💡 **Explainability & Reliability** — Interpretable and trustworthy deep learning in practice
 
 ---
 
@@ -82,21 +78,17 @@ We develop novel **deep learning-based solutions** for complex image analysis �
 
 **Private Sector**
 
-| Partner | Domain |
-|---------|--------|
-| [**Equinor**](https://www.equinor.com) | Energy & oil |
-| [**Aker BP**](https://akerbp.com) | Energy & oil |
-| [**GE Healthcare**](https://www.gehealthcare.com/products/ultrasound) | Medical ultrasound |
-| [**Kongsberg Satellite Services (KSAT)**](https://www.ksat.no) | Satellite services |
+- [**Equinor**](https://www.equinor.com) — Energy & oil
+- [**Aker BP**](https://akerbp.com) — Energy & oil
+- [**GE Healthcare**](https://www.gehealthcare.com/products/ultrasound) — Medical ultrasound
+- [**Kongsberg Satellite Services (KSAT)**](https://www.ksat.no) — Satellite services
 
 **Public Sector**
 
-| Partner | Domain |
-|---------|--------|
-| [**Cancer Registry of Norway**](https://www.kreftregisteret.no/en/) | Health & oncology |
-| [**University Hospital of North Norway (UNN)**](https://unn.no/om-oss/university-hospital-of-north-norway) | Clinical research |
-| [**Helse Nord IKT**](https://helsenordikt.no) | Healthcare IT |
-| [**Institute of Marine Research**](https://www.hi.no/en) | Ocean & marine science |
+- [**Cancer Registry of Norway**](https://www.kreftregisteret.no/en/) — Health & oncology
+- [**University Hospital of North Norway (UNN)**](https://unn.no/om-oss/university-hospital-of-north-norway) — Clinical research
+- [**Helse Nord IKT**](https://helsenordikt.no) — Healthcare IT
+- [**Institute of Marine Research**](https://www.hi.no/en) — Ocean & marine science
 
 ---
 
