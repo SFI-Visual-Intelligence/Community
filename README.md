@@ -74,7 +74,7 @@ Our goal: make visual AI more capable, trustworthy, and explainable.
 <p align="center">
   <a href="https://www.kreftregisteret.no/en/"><img src="assets/logos/cancer_registry.png" height="50" alt="Cancer Registry of Norway"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://unn.no/om-oss/university-hospital-of-north-norway"><img src="assets/logos/unn.png" height="30" alt="UNN"/></a>
+  <a href="https://unn.no/om-oss/university-hospital-of-north-norway"><img src="assets/logos/unn.png" height="40" alt="UNN"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://helsenordikt.no"><img src="assets/logos/helse_nord_ikt.png" height="50" alt="Helse Nord IKT"/></a>
   &nbsp;&nbsp;&nbsp;
@@ -86,7 +86,7 @@ Our goal: make visual AI more capable, trustworthy, and explainable.
 ## 📅 Community & Events
 
 - [**VI Days 2026**](https://www.visual-intelligence.no/event/visual-intelligence-days-2026) — annual gathering for partners and researchers
-- [**Northern Lights Deep Learning Conference**](https://www.nldl.org/home) — flagship regional DL conference held every January in Tromsø, Norway
+- [**Northern Lights Deep Learning Conference**](https://www.nldl.org/home) — every January in Tromsø, Norway
 - [**Seminars**](https://www.visual-intelligence.no/events/seminars) — workshops and talks throughout the year
 
 Subscribe to the [newsletter](https://www.visual-intelligence.no) to stay updated.
@@ -105,5 +105,5 @@ Reach out via the [Visual Intelligence website](https://www.visual-intelligence.
 ---
 
 <p align="center">
-  <sub>Visual Intelligence is funded by the Research Council of Norway and consortium partners — project #309439 · 2020–2026</sub>
+  <sub>Visual Intelligence is funded by the Research Council of Norway and consortium partners</sub>
 </p>
