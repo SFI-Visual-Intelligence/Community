@@ -78,17 +78,21 @@ We develop novel **deep learning-based solutions** for complex image analysis �
 
 **Private Sector**
 
-- [**Equinor**](https://www.equinor.com) — Energy & oil
-- [**Aker BP**](https://akerbp.com) — Energy & oil
-- [**GE Healthcare**](https://www.gehealthcare.com/products/ultrasound) — Medical ultrasound
-- [**Kongsberg Satellite Services (KSAT)**](https://www.ksat.no) — Satellite services
+<p>
+  <a href="https://www.equinor.com"><img src="https://img.shields.io/badge/Equinor-Energy%20%26%20Oil-EE4B2B?style=flat-square"/></a>
+  <a href="https://akerbp.com"><img src="https://img.shields.io/badge/Aker%20BP-Energy%20%26%20Oil-E63946?style=flat-square"/></a>
+  <a href="https://www.gehealthcare.com/products/ultrasound"><img src="https://img.shields.io/badge/GE%20Healthcare-Medical%20Ultrasound-1D6FA4?style=flat-square"/></a>
+  <a href="https://www.ksat.no"><img src="https://img.shields.io/badge/KSAT-Satellite%20Services-6A0DAD?style=flat-square"/></a>
+</p>
 
 **Public Sector**
 
-- [**Cancer Registry of Norway**](https://www.kreftregisteret.no/en/) — Health & oncology
-- [**University Hospital of North Norway (UNN)**](https://unn.no/om-oss/university-hospital-of-north-norway) — Clinical research
-- [**Helse Nord IKT**](https://helsenordikt.no) — Healthcare IT
-- [**Institute of Marine Research**](https://www.hi.no/en) — Ocean & marine science
+<p>
+  <a href="https://www.kreftregisteret.no/en/"><img src="https://img.shields.io/badge/Cancer%20Registry%20of%20Norway-Health%20%26%20Oncology-E63946?style=flat-square"/></a>
+  <a href="https://unn.no/om-oss/university-hospital-of-north-norway"><img src="https://img.shields.io/badge/UNN-Clinical%20Research-0077B6?style=flat-square"/></a>
+  <a href="https://helsenordikt.no"><img src="https://img.shields.io/badge/Helse%20Nord%20IKT-Healthcare%20IT-2A9D8F?style=flat-square"/></a>
+  <a href="https://www.hi.no/en"><img src="https://img.shields.io/badge/Institute%20of%20Marine%20Research-Ocean%20Science-F4A261?style=flat-square"/></a>
+</p>
 
 ---
 
