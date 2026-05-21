@@ -18,7 +18,9 @@
 
 **Visual Intelligence** is a Centre for Research-based Innovation (SFI), funded by the [Research Council of Norway](https://www.forskningsradet.no/) and consortium partners.
 
-We develop novel **deep learning-based solutions** for complex image analysis — addressing innovation needs shared across corporate and public partners, and beyond. Our goal: make visual AI more capable, trustworthy, and explainable.
+We develop novel **deep learning-based solutions** for complex image analysis — addressing innovation needs shared across corporate and public partners, and beyond.
+
+Our goal: make visual AI more capable, trustworthy, and explainable.
 
 ---
 
