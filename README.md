@@ -76,22 +76,15 @@ We develop novel **deep learning-based solutions** for complex image analysis ‚Ä
 
 ## ü§ù Partners
 
-**Private Sector**
-
 <p>
-  <a href="https://www.equinor.com"><img src="https://img.shields.io/badge/Equinor-EE4B2B?style=flat-square"/></a>
-  <a href="https://akerbp.com"><img src="https://img.shields.io/badge/Aker%20BP-E63946?style=flat-square"/></a>
-  <a href="https://www.gehealthcare.com/products/ultrasound"><img src="https://img.shields.io/badge/GE%20Healthcare-1D6FA4?style=flat-square"/></a>
-  <a href="https://www.ksat.no"><img src="https://img.shields.io/badge/KSAT-6A0DAD?style=flat-square"/></a>
-</p>
-
-**Public Sector**
-
-<p>
-  <a href="https://www.kreftregisteret.no/en/"><img src="https://img.shields.io/badge/Cancer%20Registry%20of%20Norway-E63946?style=flat-square"/></a>
-  <a href="https://unn.no/om-oss/university-hospital-of-north-norway"><img src="https://img.shields.io/badge/UNN-0077B6?style=flat-square"/></a>
-  <a href="https://helsenordikt.no"><img src="https://img.shields.io/badge/Helse%20Nord%20IKT-2A9D8F?style=flat-square"/></a>
-  <a href="https://www.hi.no/en"><img src="https://img.shields.io/badge/Institute%20of%20Marine%20Research-F4A261?style=flat-square"/></a>
+  <a href="https://www.equinor.com"><img src="https://img.shields.io/badge/Equinor-EE4B2B?style=for-the-badge"/></a>
+  <a href="https://akerbp.com"><img src="https://img.shields.io/badge/Aker%20BP-E63946?style=for-the-badge"/></a>
+  <a href="https://www.gehealthcare.com/products/ultrasound"><img src="https://img.shields.io/badge/GE%20Healthcare-1D6FA4?style=for-the-badge"/></a>
+  <a href="https://www.ksat.no"><img src="https://img.shields.io/badge/KSAT-6A0DAD?style=for-the-badge"/></a>
+  <a href="https://www.kreftregisteret.no/en/"><img src="https://img.shields.io/badge/Cancer%20Registry%20of%20Norway-E63946?style=for-the-badge"/></a>
+  <a href="https://unn.no/om-oss/university-hospital-of-north-norway"><img src="https://img.shields.io/badge/UNN-0077B6?style=for-the-badge"/></a>
+  <a href="https://helsenordikt.no"><img src="https://img.shields.io/badge/Helse%20Nord%20IKT-2A9D8F?style=for-the-badge"/></a>
+  <a href="https://www.hi.no/en"><img src="https://img.shields.io/badge/Institute%20of%20Marine%20Research-F4A261?style=for-the-badge"/></a>
 </p>
 
 ---
