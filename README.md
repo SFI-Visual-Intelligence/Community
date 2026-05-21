@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/logos/Visual_Intelligence_blå_960px.png" height="100" alt="Visual Intelligence"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logos/Visual_Intelligence_hvit_960px.png"/>
+    <img src="assets/logos/Visual_Intelligence_blå_960px.png" height="100" alt="Visual Intelligence"/>
+  </picture>
 </p>
 
 <h2 align="center">Norwegian Centre for Research-based Innovation (SFI)</h2>
