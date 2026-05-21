@@ -1,7 +1,7 @@
 <img src="assets/logos/Visual_Intelligence_blå_960px.png" height="90" align="left" alt="Visual Intelligence"/>
 
 **Norwegian Centre for Research-based Innovation (SFI)**<br/>
-Funded by the Research Council of Norway &nbsp;·&nbsp; 2020–2026 &nbsp;·&nbsp; 📧 visual-intelligence@uit.no
+Funded by the Research Council of Norway &nbsp;·&nbsp; 
 
 <br clear="left"/>
 
