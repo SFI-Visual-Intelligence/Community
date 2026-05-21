@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/logos/Visual_Intelligence_blå_960px.png" height="100" alt="Visual Intelligence"/>
+  <img src="assets/logos/Visual_Intelligence_blå_960px.png#gh-light-mode-only" height="100" alt="Visual Intelligence"/>
+  <img src="assets/logos/Visual_Intelligence_hvit_960px.png#gh-dark-mode-only" height="100" alt="Visual Intelligence"/>
 </p>
 
 <h2 align="center">Norwegian Centre for Research-based Innovation (SFI)</h2>
@@ -51,11 +52,20 @@ Our goal: make visual AI more capable, trustworthy, and explainable.
 ## 🏛️ Research Partners
 
 <p align="center">
-  <a href="https://uit.no"><img src="assets/logos/uit.png" height="50" alt="UiT – The Arctic University of Norway"/></a>
+  <a href="https://uit.no">
+    <img src="assets/logos/uit.png#gh-light-mode-only" height="50" alt="UiT"/>
+    <img src="assets/logos/light-version/uit.png#gh-dark-mode-only" height="50" alt="UiT"/>
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.nr.no"><img src="assets/logos/nr.gif" height="50" alt="Norsk Regnesentral"/></a>
+  <a href="https://www.nr.no">
+    <img src="assets/logos/nr.gif#gh-light-mode-only" height="50" alt="Norsk Regnesentral"/>
+    <img src="assets/logos/light-version/nr.svg#gh-dark-mode-only" height="50" alt="Norsk Regnesentral"/>
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.uio.no"><img src="assets/logos/uio.png" height="50" alt="University of Oslo"/></a>
+  <a href="https://www.uio.no">
+    <img src="assets/logos/uio.png#gh-light-mode-only" height="50" alt="University of Oslo"/>
+    <img src="assets/logos/light-version/uio.png#gh-dark-mode-only" height="50" alt="University of Oslo"/>
+  </a>
 </p>
 
 ---
@@ -63,22 +73,46 @@ Our goal: make visual AI more capable, trustworthy, and explainable.
 ## 🤝 Consortium Partners
 
 <p align="center">
-  <a href="https://www.equinor.com"><img src="assets/logos/equinor.png" height="50" alt="Equinor"/></a>
+  <a href="https://www.equinor.com">
+    <img src="assets/logos/equinor.png#gh-light-mode-only" height="50" alt="Equinor"/>
+    <img src="assets/logos/light-version/equinor.png#gh-dark-mode-only" height="50" alt="Equinor"/>
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://akerbp.com"><img src="assets/logos/akerbp.png" height="50" alt="Aker BP"/></a>
+  <a href="https://akerbp.com">
+    <img src="assets/logos/akerbp.png#gh-light-mode-only" height="50" alt="Aker BP"/>
+    <img src="assets/logos/light-version/akerbp.svg#gh-dark-mode-only" height="50" alt="Aker BP"/>
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.gehealthcare.com/products/ultrasound"><img src="assets/logos/ge_healthcare.png" height="50" alt="GE Healthcare"/></a>
+  <a href="https://www.gehealthcare.com/products/ultrasound">
+    <img src="assets/logos/ge_healthcare.png#gh-light-mode-only" height="50" alt="GE Healthcare"/>
+    <img src="assets/logos/light-version/ge_healthcare.png#gh-dark-mode-only" height="50" alt="GE Healthcare"/>
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.ksat.no"><img src="assets/logos/ksat.png" height="50" alt="KSAT"/></a>
+  <a href="https://www.ksat.no">
+    <img src="assets/logos/ksat.png#gh-light-mode-only" height="50" alt="KSAT"/>
+    <img src="assets/logos/light-version/ksat.png#gh-dark-mode-only" height="50" alt="KSAT"/>
+  </a>
 </p>
 <p align="center">
-  <a href="https://www.kreftregisteret.no/en/"><img src="assets/logos/cancer_registry.png" height="50" alt="Cancer Registry of Norway"/></a>
+  <a href="https://www.kreftregisteret.no/en/">
+    <img src="assets/logos/cancer_registry.png#gh-light-mode-only" height="50" alt="Cancer Registry of Norway"/>
+    <img src="assets/logos/light-version/cancer_registry.png#gh-dark-mode-only" height="50" alt="Cancer Registry of Norway"/>
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://unn.no/om-oss/university-hospital-of-north-norway"><img src="assets/logos/unn.png" height="40" alt="UNN"/></a>
+  <a href="https://unn.no/om-oss/university-hospital-of-north-norway">
+    <img src="assets/logos/unn.png#gh-light-mode-only" height="40" alt="UNN"/>
+    <img src="assets/logos/light-version/unn.png#gh-dark-mode-only" height="40" alt="UNN"/>
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://helsenordikt.no"><img src="assets/logos/helse_nord_ikt.png" height="50" alt="Helse Nord IKT"/></a>
+  <a href="https://helsenordikt.no">
+    <img src="assets/logos/helse_nord_ikt.png#gh-light-mode-only" height="50" alt="Helse Nord IKT"/>
+    <img src="assets/logos/light-version/helse_nord_ikt.png#gh-dark-mode-only" height="50" alt="Helse Nord IKT"/>
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hi.no/en"><img src="assets/logos/imr.png" height="50" alt="Institute of Marine Research"/></a>
+  <a href="https://www.hi.no/en">
+    <img src="assets/logos/imr.png#gh-light-mode-only" height="50" alt="Institute of Marine Research"/>
+    <img src="assets/logos/light-version/imr.png#gh-dark-mode-only" height="50" alt="Institute of Marine Research"/>
+  </a>
 </p>
 
 ---
