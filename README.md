@@ -1,5 +1,6 @@
-<h1 align="center">Visual Intelligence</h1>
-<p align="center"><b>Deep Learning for Complex Image Analysis</b></p>
+<p align="center">
+  <img src="assets/logos/Visual_Intelligence_blå_960px.png" height="80" alt="Visual Intelligence"/>
+</p>
 <p align="center"><i>Norwegian Centre for Research-based Innovation (SFI) · Norway</i></p>
 
 <br/>
