@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Norwegian Centre for Research-based Innovation (SFI)</b><br/>
-  Funded by the Research Council of Norway &nbsp;·&nbsp; 2020–2026 &nbsp;·&nbsp; 📧 visual-intelligence@uit.no
+  Funded by the Research Council of Norway &nbsp;·&nbsp;
 </p>
 
 <p align="center">
