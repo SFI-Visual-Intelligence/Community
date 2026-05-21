@@ -1,16 +1,28 @@
+<h1 align="center">Visual Intelligence</h1>
+<p align="center"><b>Deep Learning for Complex Image Analysis</b></p>
+<p align="center"><i>Centre for Research-based Innovation (SFI) · Norway · 2020–2026</i></p>
+
+<br/>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Visual%20Intelligence-Deep%20Learning%20for%20Image%20Analysis-6A0DAD?style=for-the-badge&logo=openai&logoColor=white" alt="Visual Intelligence"/>
+  <a href="https://www.visual-intelligence.no">
+    <img src="https://img.shields.io/badge/Website-visual--intelligence.no-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SFI-Visual-Intelligence">
+    <img src="https://img.shields.io/badge/GitHub-SFI--Visual--Intelligence-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/company/sfi-visual-intelligence">
+    <img src="https://img.shields.io/badge/LinkedIn-sfi--visual--intelligence-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:visual-intelligence@uit.no">
+    <img src="https://img.shields.io/badge/Email-visual--intelligence%40uit.no-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.visual-intelligence.no"><img src="https://img.shields.io/badge/Website-visual--intelligence.no-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-Community-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://youtube.com"><img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
-
-<p align="center">
+  <a href="https://github.com/SFI-Visual-Intelligence">
+    <img src="https://img.shields.io/badge/91%2B%20Repositories-open%20source-6A0DAD?style=flat-square&logo=github"/>
+  </a>
   <img src="https://img.shields.io/badge/Funded%20by-Research%20Council%20of%20Norway-003087?style=flat-square"/>
   <img src="https://img.shields.io/badge/Project-%23309439-E63946?style=flat-square"/>
   <img src="https://img.shields.io/badge/Period-2020--2026-2A9D8F?style=flat-square"/>
@@ -81,17 +93,9 @@ We develop novel **deep learning-based solutions** for complex image analysis �
 
 ## 📅 Community & Events
 
-<<<<<<< Updated upstream
 - **VI Days 2026** — annual gathering for partners and researchers
 - **Northern Lights Deep Learning Conference** — flagship regional DL conference, every January in Tromsø, Norway
 - Seminars and workshops throughout the year
-=======
-| Event | Details |
-|-------|---------|
-| 🎉 **VI Days 2026** | Annual flagship gathering for partners and researchers |
-| 🌌 **Northern Lights Deep Learning Conference** | Premier regional deep learning event |
-| 🗣️ **Seminars & Workshops** | Ongoing throughout the year |
->>>>>>> Stashed changes
 
 Subscribe to the [newsletter](https://www.visual-intelligence.no) to stay updated.
 
