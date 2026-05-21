@@ -2,7 +2,7 @@
   <img src="assets/logos/Visual_Intelligence_blå_960px.png" height="100" alt="Visual Intelligence"/>
 </p>
 
-<h3 align="center">Norwegian Centre for Research-based Innovation (SFI)</h3>
+<h2 align="center">Norwegian Centre for Research-based Innovation (SFI)</h2>
 <p align="center">Funded by the Research Council of Norway &nbsp;</p>
 
 <p align="center">
