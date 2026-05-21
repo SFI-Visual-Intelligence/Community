@@ -1,6 +1,6 @@
 <h1 align="center">Visual Intelligence</h1>
 <p align="center"><b>Deep Learning for Complex Image Analysis</b></p>
-<p align="center"><i>Centre for Research-based Innovation (SFI) · Norway</i></p>
+<p align="center"><i>Norwegian Centre for Research-based Innovation (SFI) · Norway</i></p>
 
 <br/>
 
@@ -24,9 +24,6 @@
     <img src="https://img.shields.io/badge/91%2B%20Repositories-open%20source-6A0DAD?style=flat-square&logo=github"/>
   </a>
   <img src="https://img.shields.io/badge/Funded%20by-Research%20Council%20of%20Norway-003087?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Project-%23309439-E63946?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Period-2020--2026-2A9D8F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Type-SFI%20Centre-F4A261?style=flat-square"/>
 </p>
 
 ---
@@ -81,6 +78,8 @@ We develop novel **deep learning-based solutions** for complex image analysis �
   <a href="https://akerbp.com"><img src="https://img.shields.io/badge/Aker%20BP-003087?style=for-the-badge&logoColor=white"/></a>
   <a href="https://www.gehealthcare.com/products/ultrasound"><img src="https://img.shields.io/badge/GE%20Healthcare-1D6FA4?style=for-the-badge&logo=ge&logoColor=white"/></a>
   <a href="https://www.ksat.no"><img src="https://img.shields.io/badge/KSAT-6A0DAD?style=for-the-badge&logoColor=white"/></a>
+</p>
+<p align="center">
   <a href="https://www.kreftregisteret.no/en/"><img src="https://img.shields.io/badge/Cancer%20Registry%20of%20Norway-C0392B?style=for-the-badge&logoColor=white"/></a>
   <a href="https://unn.no/om-oss/university-hospital-of-north-norway"><img src="https://img.shields.io/badge/UNN-0077B6?style=for-the-badge&logoColor=white"/></a>
   <a href="https://helsenordikt.no"><img src="https://img.shields.io/badge/Helse%20Nord%20IKT-2A9D8F?style=for-the-badge&logoColor=white"/></a>
