@@ -1,19 +1,15 @@
-<p align="center">
-  <img src="assets/logos/Visual_Intelligence_blå_960px.png" height="100" alt="Visual Intelligence"/>
-</p>
+<img src="assets/logos/Visual_Intelligence_blå_960px.png" height="90" align="left" alt="Visual Intelligence"/>
+
+**Norwegian Centre for Research-based Innovation (SFI)**<br/>
+Funded by the Research Council of Norway &nbsp;·&nbsp; 2020–2026 &nbsp;·&nbsp; 📧 visual-intelligence@uit.no
+
+<br clear="left"/>
 
 <p align="center">
-  <i>Norwegian Centre for Research-based Innovation (SFI) · Funded by the Research Council of Norway · 2020–2026</i>
-</p>
-
-<p align="center">
-  <a href="https://www.visual-intelligence.no"><img src="https://img.shields.io/badge/Website-0078D4?style=flat-square&logo=googlechrome&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://github.com/SFI-Visual-Intelligence"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/company/sfi-visual-intelligence"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="mailto:visual-intelligence@uit.no"><img src="https://img.shields.io/badge/Email-D44638?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.visual-intelligence.no"><img src="https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://github.com/SFI-Visual-Intelligence"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/company/sfi-visual-intelligence"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:visual-intelligence@uit.no"><img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
