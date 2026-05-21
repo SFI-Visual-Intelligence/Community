@@ -1,9 +1,11 @@
-<img src="assets/logos/Visual_Intelligence_blå_960px.png" height="90" align="left" alt="Visual Intelligence"/>
+<p align="center">
+  <img src="assets/logos/Visual_Intelligence_blå_960px.png" height="100" alt="Visual Intelligence"/>
+</p>
 
-**Norwegian Centre for Research-based Innovation (SFI)**<br/>
-Funded by the Research Council of Norway &nbsp;·&nbsp; 
-
-<br clear="left"/>
+<p align="center">
+  <b>Norwegian Centre for Research-based Innovation (SFI)</b><br/>
+  Funded by the Research Council of Norway &nbsp;·&nbsp; 2020–2026 &nbsp;·&nbsp; 📧 visual-intelligence@uit.no
+</p>
 
 <p align="center">
   <a href="https://www.visual-intelligence.no"><img src="https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
