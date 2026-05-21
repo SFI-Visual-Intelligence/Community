@@ -35,12 +35,7 @@ We develop novel **deep learning-based solutions** for complex image analysis �
 
 ## 🌈 Core Innovation Areas
 
-<p>
-  <img src="https://img.shields.io/badge/🏥%20Medicine%20%26%20Health-E63946?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🌊%20Marine%20Science-0077B6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⚡%20Energy%20%26%20Industry-F4A261?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🛰️%20Earth%20Observation-2A9D8F?style=for-the-badge"/>
-</p>
+
 
 | | Area | Focus |
 |---|------|-------|
@@ -64,11 +59,6 @@ We develop novel **deep learning-based solutions** for complex image analysis �
 
 ## 🏛️ Research Institutions
 
-<p>
-  <img src="https://img.shields.io/badge/UiT-The%20Arctic%20University%20of%20Norway-003087?style=flat-square&logo=academia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Norsk%20Regnesentral-Norwegian%20Computing%20Center-E63946?style=flat-square"/>
-  <img src="https://img.shields.io/badge/UiO-University%20of%20Oslo-9B2335?style=flat-square&logo=academia&logoColor=white"/>
-</p>
 
 - 🟦 [UiT – The Arctic University of Norway](https://uit.no)
 - 🟥 [Norsk Regnesentral (Norwegian Computing Center)](https://www.nr.no)
@@ -78,34 +68,14 @@ We develop novel **deep learning-based solutions** for complex image analysis �
 
 ## 🤝 Partners
 
-**Private Sector**
-
-<p>
-  <img src="https://img.shields.io/badge/Equinor-Energy-EE4B2B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/GE%20Vingmed-Ultrasound-1D6FA4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Terratec-Geospatial-3A7D44?style=flat-square"/>
-  <img src="https://img.shields.io/badge/KSAT-Satellite%20Services-6A0DAD?style=flat-square"/>
-</p>
 
 **Public Sector**
 
-<p>
-  <img src="https://img.shields.io/badge/Cancer%20Registry%20of%20Norway-E63946?style=flat-square"/>
-  <img src="https://img.shields.io/badge/UNN-University%20Hospital%20North%20Norway-0077B6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Helse%20Nord%20IKT-2A9D8F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Institute%20of%20Marine%20Research-F4A261?style=flat-square"/>
-</p>
 
 ---
 
 ## 🌍 UN Sustainable Development Goals
 
-<p>
-  <img src="https://img.shields.io/badge/SDG%203-Good%20Health%20%26%20Well--being-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SDG%207-Affordable%20%26%20Clean%20Energy-FFC107?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SDG%2014-Life%20Below%20Water-2196F3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SDG%2015-Life%20on%20Land-8BC34A?style=for-the-badge"/>
-</p>
 
 ---
 
