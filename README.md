@@ -76,7 +76,7 @@ Visual Intelligence contributes to:
 ## Community & Events
 
 - **VI Days 2026** — annual gathering for partners and researchers
-- **Northern Lights Deep Learning Conference** — flagship regional DL conference
+- **Northern Lights Deep Learning Conference** — flagship regional DL conference, every January in Tromsø, Norway
 - Seminars and workshops throughout the year
 
 Stay updated via the [newsletter](https://www.visual-intelligence.no) and follow us on:
