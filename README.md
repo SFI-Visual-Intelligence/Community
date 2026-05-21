@@ -62,7 +62,7 @@ We develop novel **deep learning-based solutions** for complex image analysis �
 
 ---
 
-## 🏛️ Research Institutions
+## 🏛️ Research partners
 
 
 - 🟦 [UiT – The Arctic University of Norway](https://uit.no)
@@ -71,7 +71,7 @@ We develop novel **deep learning-based solutions** for complex image analysis �
 
 ---
 
-## 🤝 Partners
+## 🤝 Consortium Partners
 
 <p align="center">
   <a href="https://www.equinor.com"><img src="https://img.shields.io/badge/Equinor-EE4B2B?style=for-the-badge&logo=equinor&logoColor=white"/></a>
